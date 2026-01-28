@@ -1,0 +1,15 @@
+[project]
+name = "similarity-search-tooll"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "docx>=0.2.4",
+    "dotenv>=0.9.9",
+    "pinecone>=8.0.0",
+    "pypdf>=6.6.2",
+    "python-docx>=1.2.0",
+    "sentence-transformers>=5.2.2",
+    "streamlit>=1.53.1",
+]
